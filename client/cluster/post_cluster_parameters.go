@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"mac_zhou.exe/go/pkg/mod/github.com/mac-zhou/haproxy-golang/models"
+	"github.com/mac-zhou/haproxy-golang/models"
 )
 
 // NewPostClusterParams creates a new PostClusterParams object

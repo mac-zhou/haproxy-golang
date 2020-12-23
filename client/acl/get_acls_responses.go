@@ -15,7 +15,7 @@ import (
 	"github.com/go-openapi/swag"
 	"github.com/go-openapi/validate"
 
-	"mac_zhou.exe/go/pkg/mod/github.com/mac-zhou/haproxy-golang/models"
+	"github.com/mac-zhou/haproxy-golang/models"
 )
 
 // GetAclsReader is a Reader for the GetAcls structure.

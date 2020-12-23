@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"mac_zhou.exe/go/pkg/mod/github.com/mac-zhou/haproxy-golang/models"
+	"github.com/mac-zhou/haproxy-golang/models"
 )
 
 // NewReplaceConsulParams creates a new ReplaceConsulParams object
